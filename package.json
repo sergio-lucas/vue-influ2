@@ -1,0 +1,16 @@
+{
+  "name": "vue-influ2",
+  "version": "0.0.2",
+  "description": "Vue influe2 plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "plugin",
+    "influe2"
+  ],
+  "author": "Serhii Lukianchuk",
+  "license": "ISC"
+}
