@@ -1,11 +1,14 @@
 {
   "name": "vue-influ2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue influe2 plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": "https://github.com/sergio-lucas/vue-influ2/issues",
+  "homepage": "https://github.com/sergio-lucas/vue-influ2#readme",
+  "repository": "https://github.com/sergio-lucas/vue-influ2",
   "keywords": [
     "vue",
     "plugin",
